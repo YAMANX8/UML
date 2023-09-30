@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-30T21:47:52.782Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="HgfKA08rGspAuZrEK8GH" version="22.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-30T21:50:46.642Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="c5qaUwrF2AC-5_FVu2pN" version="22.0.0" type="github">
   <diagram name="Page-1" id="JFE0y3j45iGbmOj6WJAN">
-    <mxGraphModel dx="381" dy="-1258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-218" dy="-1576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -144,11 +144,8 @@
         <mxCell id="vR9J5qjApLn2bLfj71ka-38" value="Remove Control to Roadmaps" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3168" y="4070" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="vR9J5qjApLn2bLfj71ka-40" value="Manage Permissions" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="3196.75" y="4040" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="vR9J5qjApLn2bLfj71ka-41" value="Manage Request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="3090.5" y="4040" width="110" height="30" as="geometry" />
+        <mxCell id="vR9J5qjApLn2bLfj71ka-40" value="Manage Control" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3227.5" y="4040" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vR9J5qjApLn2bLfj71ka-42" value="Handle Instructors Registration" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2810" y="4165" width="140" height="70" as="geometry" />
