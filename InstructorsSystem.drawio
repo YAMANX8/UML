@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-30T21:16:17.843Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="s1MAVGCtin8Q0zAyfz7X" version="22.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-30T21:37:49.018Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="rf4TK0PghNjnW7Uv5EQs" version="22.0.0" type="github">
   <diagram name="Page-1" id="Ath-aDZ8YuKglKGgoTV4">
     <mxGraphModel dx="-218" dy="-3914" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -182,12 +182,6 @@
               <mxPoint x="2711" y="5767" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="YyKw2C9CILPDljchA-ME-1" value="Edit Course Info" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3167.5" y="5775" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="YyKw2C9CILPDljchA-ME-2" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.964;entryY=0.296;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="YyKw2C9CILPDljchA-ME-1" target="eY1WQo2ULhyhx-jVLPHs-36">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
